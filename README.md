@@ -1,8 +1,6 @@
 # Raiser
 Raiser is a nice discord bot! https://bit.ly/raiser-bot
 
-## Raiser is not yet open source.
-
 For updates, check out https://discord.gg/mC68HPVGUh and https://discord.gg/J26gyZmPz5.
 
 If there are any questions or concerns about the bot. Please write to me via Discord on one of the servers. 
