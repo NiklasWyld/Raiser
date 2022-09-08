@@ -1,5 +1,4 @@
 import time
-import exttoken
 from discord.ext import commands
 import discord
 import asyncio
@@ -36,4 +35,4 @@ for cog in cogs:
 
 # -------------------------------
 
-bot.run(exttoken.token)
+bot.run('TOKEN')
