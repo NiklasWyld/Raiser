@@ -1,0 +1,7 @@
+discord
+discord.py
+discord-components
+discord-py-slash-command
+aioconsole
+aiohttp
+requests
